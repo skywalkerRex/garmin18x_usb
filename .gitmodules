@@ -1,0 +1,3 @@
+[submodule "pygarmin"]
+	path = pygarmin
+	url = git@github.com:quentinsf/pygarmin.git
